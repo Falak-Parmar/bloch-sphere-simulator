@@ -35,7 +35,7 @@ var ToolboxEventsNamespace = {
         GlobalContext.customGatesProperties[id] = customQuantumGate;
     
         let customQuantumGateHtml = `
-            <button type="button" id="${id}" class="quantum-gate col-xl-3 col-lg-12 btn btn-primary btn-custom mr-1 mt-1"
+            <button type="button" id="${id}" class="quantum-gate btn btn-primary btn-custom"
                 data-toggle="tooltip" data-html="true" title="${customQuantumGate.properties.title}">
                 <span>C<sub>${count}</sub></span>
             </button>

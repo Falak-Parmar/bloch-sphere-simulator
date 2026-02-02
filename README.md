@@ -1,3 +1,7 @@
+## Forked from bits-and-electrons/bloch-sphere-simulator
+Original Author: bits-and-electrons  
+License: MIT  [oai_citation:4‡GitHub](https://github.com/bits-and-electrons/bloch-sphere-simulator?utm_source=chatgpt.com)
+
 # <img src="images/logo.png" width="30" height="30" alt="" /> [Bloch sphere simulator](https://bits-and-electrons.github.io/bloch-sphere-simulator/)
 
 [![Build Status](https://dev.azure.com/bits-and-electrons/bloch-sphere-simulator/_apis/build/status/bits-and-electrons.bloch-sphere-simulator.build?branchName=main)](https://dev.azure.com/bits-and-electrons/bloch-sphere-simulator/_build/latest?definitionId=6&branchName=main)
