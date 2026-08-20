@@ -2,7 +2,7 @@
 Original Author: bits-and-electrons  
 License: MIT  [oai_citation:4‡GitHub](https://github.com/bits-and-electrons/bloch-sphere-simulator?utm_source=chatgpt.com)
 
-# <img src="images/logo.png" width="30" height="30" alt="" /> [Bloch sphere simulator](https://bits-and-electrons.github.io/bloch-sphere-simulator/)
+# <img src="images/logo.png" width="30" height="30" alt="" /> [Bloch sphere simulator](https://falak-parmar.github.io/bloch-sphere-simulator/)
 
 [![Build Status](https://dev.azure.com/bits-and-electrons/bloch-sphere-simulator/_apis/build/status/bits-and-electrons.bloch-sphere-simulator.build?branchName=main)](https://dev.azure.com/bits-and-electrons/bloch-sphere-simulator/_build/latest?definitionId=6&branchName=main)
 ![Code Coverage](https://img.shields.io/azure-devops/coverage/bits-and-electrons/bloch-sphere-simulator/6)
@@ -38,3 +38,12 @@ npm test
 - [Three.JS](https://threejs.org/)
 - [JQuery](https://jquery.com/)
 - [Bootstrap](https://getbootstrap.com/)
+
+## Trust & Transparency notes
+
+- **Source & Attribution**: This repository is a fork of the original [bits-and-electrons/bloch-sphere-simulator](https://github.com/bits-and-electrons/bloch-sphere-simulator). The core simulation logic, WebGL physics, and Three.js setups belong entirely to the original author.
+- **Motive**: The fork was created to adapt the UI elements to align with the "Night Owl/Early Bird" quantum style guide, rendering it suitable as an interactive visualization resource for quantum machine learning learning notes.
+- **Modifications**: Adjusted button layout and container spacing in `index.html` and `css/main.css`, and configured deployment for custom page hosting.
+- **Limitations**: The tool is limited to visualizing single-qubit state rotations on the Bloch sphere and does not support multi-qubit systems, entanglement, or quantum noise simulation.
+- **Tooling & AI Usage**: AI coding assistants were used to speed up CSS refactoring and align the HTML layout with the style guide specifications.
+
